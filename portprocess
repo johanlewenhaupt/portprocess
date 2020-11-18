@@ -1,0 +1,2 @@
+#!/bin/bash
+lsof -w -n -i tcp:8080
